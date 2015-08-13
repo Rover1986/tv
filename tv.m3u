@@ -1,8 +1,6 @@
 #EXTM3U
 Mohamad alkhatib
 
-\f0\fs28 \cf0 \cb2 \expnd0\expndtw0\kerning0
-http://portal.rapidiptv.com:8080/live/onur/onur/2447.m3u8
 #EXTINF:0,BEIN SPORT 2
 http://portal.rapidiptv.com:8080/live/onur/onur/2448.m3u8
 #EXTINF:0,BEIN SPORT 3
