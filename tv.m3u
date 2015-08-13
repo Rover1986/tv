@@ -7,6 +7,25 @@
 \pard\pardeftab720
 
 \f0\fs28 \cf0 \cb2 \expnd0\expndtw0\kerning0
+http://portal.rapidiptv.com:8080/live/onur/onur/2447.m3u8
+#EXTINF:0,BEIN SPORT 2
+http://portal.rapidiptv.com:8080/live/onur/onur/2448.m3u8
+#EXTINF:0,BEIN SPORT 3
+http://portal.rapidiptv.com:8080/live/onur/onur/2449.m3u8
+#EXTINF:0,BEIN SPORT 4
+http://portal.rapidiptv.com:8080/live/onur/onur/2450.m3u8
+#EXTINF:0,BEIN SPORT 5
+http://portal.rapidiptv.com:8080/live/onur/onur/2451.m3u8
+#EXTINF:0,BEIN SPORT 6
+http://portal.rapidiptv.com:8080/live/onur/onur/2452.m3u8
+#EXTINF:0,BEIN SPORT 7
+http://portal.rapidiptv.com:8080/live/onur/onur/2453.m3u8
+#EXTINF:0,BEIN SPORT8 HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2454.m3u8
+#EXTINF:0,BEIN SPORT 9
+http://portal.rapidiptv.com:8080/live/onur/onur/2455.m3u8
+#EXTINF:0,BEIN SPORT 10
+http://portal.rapidiptv.com:8080/live/onur/onur/2456.m3u8
 #EXTM3U\
 #EXTINF:0,MBC 1\
 http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116\
