@@ -19,11 +19,11 @@ http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
 http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
 #EXTINF:0,MBC Max
 http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
-#EXTINF:-1,1.Sky news arabia
+#EXTINF:-1,Sky news arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:-1 , 2.TRT Arabic |
+#EXTINF:-1 ,TRT Arabic |
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1,3.Aljazeera Doc
+#EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,Syria
 http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
