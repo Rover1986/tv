@@ -31,6 +31,8 @@ http://178.33.88.129:888/udp/239.102.0.0:1234
 http://178.33.88.129:888/udp/239.102.0.135:1234
 #EXTINF:-1,Sky news arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+#EXTINF:0,ALJAZEERA MUBASHER
+http://178.33.88.129:888/udp/239.102.0.158:1234
 #EXTINF:-1 ,TRT Arabic |
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1,Aljazeera Doc
