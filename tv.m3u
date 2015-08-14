@@ -100,26 +100,6 @@ http://portal.rapidiptv.com:8080/live/onur/onur/2454.m3u8
 http://portal.rapidiptv.com:8080/live/onur/onur/2455.m3u8
 #EXTINF:0,BEIN SPORT 10
 http://portal.rapidiptv.com:8080/live/onur/onur/2456.m3u8
-MBC GROUP
-#EXTINF:0,MBC 1\
-http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116\
-#EXTINF:0,MBC 2\
-http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116\
-#EXTINF:0,MBC 3\
-http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116\
-#EXTINF:0,MBC 4\
-http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116\
-#EXTINF:0,MBC Action\
-http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116\
-#EXTINF:0,MBC Bollywood\
-http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116\
-#EXTINF:0,MBC Drama\
-http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116\
-#EXTINF:0,MBC Masr\
-http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116\
-#EXTINF:0,MBC Max\
-http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116\
-
 #EXTINF:0,DW\
 http://89.248.171.141/ts60/ch1255/index.m3u8?v=1548652116\
 #EXTINF:0,Cairo Drama\
