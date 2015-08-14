@@ -19,6 +19,12 @@ http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
 http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
 #EXTINF:0,MBC Max
 http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
+#EXTINF:0,ART CINEMA
+http://178.33.88.129:888/udp/239.102.0.49:1234
+#EXTINF:0,ART 1
+http://178.33.88.129:888/udp/239.102.0.51:1234
+#EXTINF:0,ART HYKAYAT
+http://178.33.88.129:888/udp/239.102.0.52:1234
 #EXTINF:-1,Sky news arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:-1 ,TRT Arabic |
