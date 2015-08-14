@@ -2,7 +2,7 @@
 #EXTINF:-1,[COLOR yellow]»»-- Mohamad Alkhatib --««[/COLOR]
 
 #EXTINF:0,MBC 1
-http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116
+http://89.248.171.141/ts60/ch1244/index.m3u8
 #EXTINF:0,MBC 2
 http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116
 #EXTINF:0,MBC 3
@@ -11,6 +11,8 @@ http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116
 http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116
 #EXTINF:0,MBC Action
 http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
+#EXTINF:0,MBC ACTION 
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:0,MBC Bollywood
 http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
 #EXTINF:0,MBC Drama
@@ -19,6 +21,8 @@ http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
 http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
 #EXTINF:0,MBC Max
 http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
+#EXTINF:0,MBC MAX 
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0,ART CINEMA
 http://178.33.88.129:888/udp/239.102.0.49:1234
 #EXTINF:0,ART 1
