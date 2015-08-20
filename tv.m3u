@@ -1,10 +1,16 @@
 #EXTM3U
+#EXTINF:0,MBC MAX 
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0,MBC ACTION 
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,MBC_BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1,mbc_max
 rtmp://63.237.48.23/live//MBC_MAX
+#EXTINF:-1,mbc2
+rtmp://63.237.48.23/live//MBC2
+#EXTINF:0,NAT GEO AD
+http://178.33.88.129:888/udp/239.102.0.216:1234
 #EXTINF:-1, Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1, Dubai ONE
@@ -175,51 +181,11 @@ rtmp://AgendaStreamer1.qna.org.qa/qrn//qrn
 http://broadcastquran.ism3na.com:8332/;stream.mp3
 #EXTINF:-1,Quran
 http://www.elahmad.com/tv/m3u8/itworkscdn.m3u8?id=quran1
-
-
-#EXTINF:0,MBC 1
-http://89.248.171.141/ts60/ch1244/index.m3u8
-#EXTINF:0,MBC 2
-http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116
-#EXTINF:0,MBC 3
-http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116
-#EXTINF:0,MBC 4
-http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116
-#EXTINF:0,MBC Action
-http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
-
-#EXTINF:0,MBC Bollywood
-http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
-#EXTINF:0,MBC Drama
-http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
-#EXTINF:0,MBC Masr
-http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
-#EXTINF:0,MBC Max
-http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
-#EXTINF:0,MBC MAX 
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:0,ART CINEMA
-http://178.33.88.129:888/udp/239.102.0.49:1234
-#EXTINF:0,ART 1
-http://178.33.88.129:888/udp/239.102.0.51:1234
-#EXTINF:0,ART 2
-http://178.33.88.129:888/udp/239.102.0.47:1234
-#EXTINF:0,ART HYKAYAT
-http://178.33.88.129:888/udp/239.102.0.52:1234
-#EXTINF:0,ROTANA CINEMA
-http://178.33.88.129:888/udp/239.102.0.188:1234
-#EXTINF:0,FOX MOVIES
-http://178.33.88.129:888/udp/239.102.0.181:1234
-#EXTINF:0,ZEE AFLAM ARABIC
-http://178.33.88.129:888/udp/239.102.0.0:1234
-#EXTINF:0,ALRESALAH
-http://178.33.88.129:888/udp/239.102.0.135:1234
 #EXTINF:-1,Sky news arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:0,ALJAZEERA MUBASHER
 http://178.33.88.129:888/udp/239.102.0.158:1234
-#EXTINF:0,NAT GEO AD
-http://178.33.88.129:888/udp/239.102.0.216:1234
+
 #EXTINF:-1 ,TRT Arabic |
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1,Aljazeera Doc
@@ -228,40 +194,7 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://178.33.88.129:888/udp/239.102.0.169:1234
 #EXTINF:0,FATAFET 
 http://178.33.88.129:888/udp/239.102.0.180:1234
-#EXTINF:-1,Syria
-http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-#EXTINF:-1,Syria Aloula
-http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
-#EXTINF:-1,Syria Drama
-http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
-#EXTINF:-1,Syria Nour
-http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
-#EXTINF:-1, Al Jazeera Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
-#EXTINF:-1,Syria drama
-http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
-#EXTINF:-1,Syria news 
-http://82.137.248.16:1935/Snews/SnewsLive1/gmswf.m3u8
-#EXTINF:-1,Syria TV 
-http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-#EXTINF:-1,Medine
-http://46.245.160.224/medine/medine/gmswf.m3u8
-#EXTINF:-1,Mekke
-http://46.245.160.224/mekke/mekke/gmswf.m3u8
-#EXTINF:-1,Quran TV
-rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
-#EXTINF:-1,Quran tv
-http://46.245.160.224/mekke/mekke/gmswf.m3u8
-#EXTINF:-1,Syria-Nour alsham
-http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8
-#EXTINF:-1,Syria aloula
-http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
-#EXTINF:-1, Syria Drama	
-http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
-#EXTINF:-1,Talaqie
-rtmp://82.137.248.20/Talaqie/TalaqieLive2
-#EXTINF:-1,Alikhbaria Syria
-rtmp://82.137.248.16/Snews/SnewsLive1
+
 SPORTS
 #EXTINF:0,BEIN SPORT 2
 http://portal.rapidiptv.com:8080/live/onur/onur/2448.m3u8
