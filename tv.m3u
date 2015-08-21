@@ -39,8 +39,22 @@ http://178.33.88.129:888/udp/239.102.0.0:1234
 http://178.33.88.129:888/udp/239.102.0.110:1234
 #EXTINF:-1,ALMAJED QURAN
 http://178.33.88.129:888/udp/239.102.0.144:1234
+#EXTINF:-1,ROTANA MASR
+http://178.33.88.129:888/udp/239.102.0.185:1234
+#EXTINF:-1,ROTANA MUSIC
+http://178.33.88.129:888/udp/239.102.0.186:1234
+#EXTINF:-1,ROTANA CINEMA
+http://178.33.88.129:888/udp/239.102.0.188:1234
+#EXTINF:-1,ROTANA CLASSIC
+http://178.33.88.129:888/udp/239.102.0.187:1234
 #EXTINF:0,NAT GEO AD
 http://178.33.88.129:888/udp/239.102.0.216:1234
+#EXTINF:-1,SPACETOON
+http://178.33.88.129:888/udp/239.102.0.193:1234
+#EXTINF:-1,BARAEEM
+http://178.33.88.129:888/udp/239.102.0.194:1234
+#EXTINF:-1,TOYOR ALJANA
+http://178.33.88.129:888/udp/239.102.0.215:1234
 #EXTINF:-1,ALJAZEERA
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
 #EXTINF:-1, Dubai TV
@@ -61,8 +75,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dd
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
 #EXTINF:-1,NBN
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
-#EXTINF:-1,Aljadid
-http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
+#EXTINF:-1,FOX
+http://178.33.88.129:888/udp/239.102.0.249:1234
 #EXTINF:-1,OTV
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Liban
