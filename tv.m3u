@@ -616,4 +616,5 @@ http://178.33.88.129:888/udp/239.102.0.252:1234
 http://178.33.88.129:888/udp/239.102.0.253:1234
 #EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.254 1234
 http://178.33.88.129:888/udp/239.102.0.254:1234
-
+High
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
