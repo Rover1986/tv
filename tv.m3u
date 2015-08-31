@@ -616,5 +616,6 @@ http://178.33.88.129:888/udp/239.102.0.252:1234
 http://178.33.88.129:888/udp/239.102.0.253:1234
 #EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.254 1234
 http://178.33.88.129:888/udp/239.102.0.254:1234
-#EXTINF:0,MBC
-http://50.23.65.8/live/mbc/index.m3u8
+#EXTINF:-1,MBC TV
+rtmp://178.162.193.26/zenex playpath=mc0001?id=15923&pk=6c70a430c178860a65271fa2900dc04669fc1fc826ae6cfe73eb26be414c528b swfUrl=http://www.zenexplayer.com/data/scripts/fplayer.swf live=1 pageUrl=http://www.zenexplayer.com/embedplayer/mc0001/1/540/360
+
