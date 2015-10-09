@@ -1,217 +1,5 @@
 #EXTM3U
-OSN And MBC Arabic IPTV
-#EXTINF:0,ARr:NileDrama
-http://149.202.75.2:8000/live/Tech/Tech/1920.ts
-#EXTINF:0,ARr:NileComedy
-http://149.202.75.2:8000/live/Tech/Tech/1921.ts
-#EXTINF:0,ARr:NileCinema
-http://149.202.75.2:8000/live/Tech/Tech/1922.ts
-#EXTINF:0,ARr:MBCPROSPORT3
-http://149.202.75.2:8000/live/Tech/Tech/1940.ts
-#EXTINF:0,ARr:MBCPROSPORT2
-http://149.202.75.2:8000/live/Tech/Tech/1941.ts
-#EXTINF:0,ARr:MBCPROSPORT1
-http://149.202.75.2:8000/live/Tech/Tech/1939.ts
-#EXTINF:0,ARr:MBCMax
-http://149.202.75.2:8000/live/Tech/Tech/1927.ts
-#EXTINF:0,ARr:MBCMasr
-http://149.202.75.2:8000/live/Tech/Tech/1930.ts
-#EXTINF:0,ARr:mbcmasar2
-http://149.202.75.2:8000/live/Tech/Tech/1931.ts
-#EXTINF:0,ARr:MBCDrama
-http://149.202.75.2:8000/live/Tech/Tech/1926.ts
-#EXTINF:0,ARr:MBCAction
-http://149.202.75.2:8000/live/Tech/Tech/1928.ts
-#EXTINF:0,ARr:MBC4
-http://149.202.75.2:8000/live/Tech/Tech/1925.ts
-#EXTINF:0,ARr:MBC3
-http://149.202.75.2:8000/live/Tech/Tech/1924.ts
-#EXTINF:0,ARr:MBC-Bollywood
-http://149.202.75.2:8000/live/Tech/Tech/1929.ts
-#EXTINF:0,ARr:MBC-2
-http://149.202.75.2:8000/live/Tech/Tech/1923.ts
-#EXTINF:0,ARr:CBCSofra
-http://149.202.75.2:8000/live/Tech/Tech/1933.ts
-#EXTINF:0,ARr:CBCDrama
-http://149.202.75.2:8000/live/Tech/Tech/1934.ts
-#EXTINF:0,ARr:CBC
-http://149.202.75.2:8000/live/Tech/Tech/1935.ts
-#EXTINF:0,ARr:BBCar
-http://149.202.75.2:8000/live/Tech/Tech/1889.ts
-#EXTINF:0,ARr:Baraeem
-http://149.202.75.2:8000/live/Tech/Tech/1890.ts
-#EXTINF:0,ARr:Assadissa
-http://149.202.75.2:8000/live/Tech/Tech/1891.ts
-#EXTINF:0,ARr:ArtAflam1
-http://149.202.75.2:8000/live/Tech/Tech/1938.ts
-#EXTINF:0,ARr:ArtAflam2
-http://149.202.75.2:8000/live/Tech/Tech/1937.ts
-#EXTINF:0,ARr:ArtHekayat
-http://149.202.75.2:8000/live/Tech/Tech/1936.ts
-#EXTINF:0,ARr:Arriadia
-http://149.202.75.2:8000/live/Tech/Tech/1894.ts
-#EXTINF:0,ARr:Arrabiaa
-http://149.202.75.2:8000/live/Tech/Tech/1895.ts
-#EXTINF:0,ARr:Aloulamaroc
-http://149.202.75.2:8000/live/Tech/Tech/1892.ts
-#EXTINF:0,ARr:aljazeera
-http://149.202.75.2:8000/live/Tech/Tech/1932.ts
-#EXTINF:0,ARr:AlInsen
-http://149.202.75.2:8000/live/Tech/Tech/1898.ts
-#EXTINF:0,ARr:AlarabiyaAhdas
-http://149.202.75.2:8000/live/Tech/Tech/1915.ts
-#EXTINF:0,ARr:alarabiya
-http://149.202.75.2:8000/live/Tech/Tech/1912.ts
-#EXTINF:0,ARr:2mMaroc
-http://149.202.75.2:8000/live/Tech/Tech/1893.ts
-#EXTINF:0,AR:Syria Drama
-http://149.202.75.2:8000/live/Tech/Tech/1642.ts
-#EXTINF:0,AR:Syria Aloula
-http://149.202.75.2:8000/live/Tech/Tech/1641.ts
-#EXTINF:0,AR:Syria
-http://149.202.75.2:8000/live/Tech/Tech/1643.ts
-#EXTINF:0,AR:Sama Syria
-http://149.202.75.2:8000/live/Tech/Tech/1644.ts
-#EXTINF:0,AR:SAMA DUBAI
-http://149.202.75.2:8000/live/Tech/Tech/1602.ts
-#EXTINF:0,AR:DUBAI TV
-http://149.202.75.2:8000/live/Tech/Tech/1601.ts
-#EXTINF:0,AR:DUBAI SPORTS
-http://149.202.75.2:8000/live/Tech/Tech/1605.ts
-#EXTINF:0,AR:DUBAI ONE
-http://149.202.75.2:8000/live/Tech/Tech/1603.ts
-#EXTINF:0,AR:DUBAI DRAMA
-http://149.202.75.2:8000/live/Tech/Tech/1604.ts
-#EXTINF:0,AR:ALJAZEERA DOC
-http://149.202.75.2:8000/live/Tech/Tech/1600.ts
-#EXTINF:0,ARr:NATIONAL1
-http://149.202.75.2:8000/live/Tech/Tech/1906.ts
-#EXTINF:0,ARr:NATIONAL2
-http://149.202.75.2:8000/live/Tech/Tech/1905.ts
-#EXTINF:0,ARr:hanibal
-http://149.202.75.2:8000/live/Tech/Tech/1900.ts
-#EXTINF:0,ARr:Tounesna
-http://149.202.75.2:8000/live/Tech/Tech/1901.ts
-#EXTINF:0,ARr:ETTOUNSIA
-http://149.202.75.2:8000/live/Tech/Tech/1911.ts
-#EXTINF:0,ARr:attassiatv
-http://149.202.75.2:8000/live/Tech/Tech/1908.ts
-#EXTINF:0,ARr:TNN
-http://149.202.75.2:8000/live/Tech/Tech/1902.ts
-#EXTINF:0,ARr:TELVZATV
-http://149.202.75.2:8000/live/Tech/Tech/1903.ts
-#EXTINF:0,ARr:FIRST.TV
-http://149.202.75.2:8000/live/Tech/Tech/1910.ts
-#EXTINF:0,ARr:NESSMA
-http://149.202.75.2:8000/live/Tech/Tech/1904.ts
-#EXTINF:0,ARr:MTunisia
-http://149.202.75.2:8000/live/Tech/Tech/1907.ts
-#EXTINF:0,AR_Rotana_Masriya
-http://149.202.75.2:8000/live/Tech/Tech/1916.ts
-#EXTINF:0,ARr:ZitounaHedaya
-http://149.202.75.2:8000/live/Tech/Tech/1909.ts
-#EXTINF:0,ARr:ZeeAlwan
-http://149.202.75.2:8000/live/Tech/Tech/1896.ts
-#EXTINF:0,ARr:ZeeAflam
-http://149.202.75.2:8000/live/Tech/Tech/1897.ts
-#EXTINF:0,ARr:zaitouna
-http://149.202.75.2:8000/live/Tech/Tech/1914.ts
-#EXTINF:0,ARr:Toyor-jannah
-http://149.202.75.2:8000/live/Tech/Tech/1888.ts
-#EXTINF:0,ARr:STARCINEMA2
-http://149.202.75.2:8000/live/Tech/Tech/1913.ts
-#EXTINF:0,ARr:samiratv
-http://149.202.75.2:8000/live/Tech/Tech/1899.ts
-#EXTINF:0,ARr:RotanaClassic
-http://149.202.75.2:8000/live/Tech/Tech/1918.ts
-#EXTINF:0,ARr:RotanaCinema
-http://149.202.75.2:8000/live/Tech/Tech/1919.ts
-#EXTINF:0,ETTOUNSIA
-http://149.202.75.2:8000/live/Tech/Tech/1323.ts
-#EXTINF:0,ALjanoubia
-http://149.202.75.2:8000/live/Tech/Tech/1848.ts
-#EXTINF:0,OSN-DISCOVERY-HD
-http://149.202.75.2:8000/live/Tech/Tech/252.ts
-#EXTINF:0,OSN-Discovery-Science-HD
-http://149.202.75.2:8000/live/Tech/Tech/1513.ts
-#EXTINF:0,OSN COMEDY
-http://149.202.75.2:8000/live/Tech/Tech/1504.ts
-#EXTINF:0,OSN_MOVIES_FESTIVAL
-http://149.202.75.2:8000/live/Tech/Tech/1501.ts
-#EXTINF:0,OSN Movies Premiere
-http://149.202.75.2:8000/live/Tech/Tech/1759.ts
-#EXTINF:0,OSN Movie kids-HD
-http://149.202.75.2:8000/live/Tech/Tech/236.ts
-#EXTINF:0,OSN-Animal-Planet-HD
-http://149.202.75.2:8000/live/Tech/Tech/1505.ts
-#EXTINF:0,OSN YAHALA
-http://149.202.75.2:8000/live/Tech/Tech/1511.ts
-#EXTINF:0,OSN_ACTION
-http://149.202.75.2:8000/live/Tech/Tech/1500.ts
-#EXTINF:0,OSN_MOVIES
-http://149.202.75.2:8000/live/Tech/Tech/1509.ts
-#EXTINF:0,OSN_MOVIES_DRAMA
-http://149.202.75.2:8000/live/Tech/Tech/1503.ts
-#EXTINF:-1, beIN Sports 1HD
-http://50.7.69.138:9080/hls/bein1hd.m3u8
-#EXTINF:-1, beIN Sports 2HD
-http://50.7.69.138:9080/hls/bein2hd.m3u8
-#EXTINF:-1, beIN Sports 3HD
-http://50.7.69.138:9080/hls/bein3hd.m3u8
-#EXTINF:-1, beIN Sports 4HD
-http://50.7.69.138:9080/hls/bein4hd.m3u8
-#EXTINF:-1, beIN Sports 5HD
-http://50.7.69.138:9080/hls/bein5hd.m3u8
-#EXTINF:-1, beIN Sports 6HD
-http://50.7.69.138:9080/hls/bein6hd.m3u8
-#EXTINF:-1, beIN Sports 7HD
-http://50.7.69.138:9080/hls/bein7hd.m3u8
-#EXTINF:-1, beIN Sports 9HD
-http://50.7.69.138:9080/hls/bein8hd.m3u8
-#EXTINF:-1, beIN Sports 9HD
-http://50.7.69.138:9080/hls/bein9hd.m3u8
-#EXTINF:-1, beIN Sports 10HD
-http://50.7.69.138:9080/hls/bein10hd.m3u8
-#EXTINF:0,OSN Abu Dhabi Sports 1HD
-http://149.202.75.2:8000/live/Tech/Tech/1947.ts
-#EXTINF:0,BEIN SPORT AlKASS 1 HD
-http://149.202.75.2:8000/live/Tech/Tech/1945.ts
-#EXTINF:0,BEIN SPORT AlKASS 2 HD
-http://149.202.75.2:8000/live/Tech/Tech/1944.ts
-#EXTINF:0,BEIN SPORT AlKASS 3 HD
-http://149.202.75.2:8000/live/Tech/Tech/1943.ts
-#EXTINF:0,BEIN SPORT AlKASS 4 HD
-http://149.202.75.2:8000/live/Tech/Tech/1942.ts
-#EXTINF:0,BEIN SPORT HD1
-http://149.202.75.2:8000/live/Tech/Tech/363.ts
-#EXTINF:0,BEIN SPORT HD2
-http://149.202.75.2:8000/live/Tech/Tech/364.ts
-#EXTINF:0,BEIN SPORT HD3
-http://149.202.75.2:8000/live/Tech/Tech/365.ts
-#EXTINF:0,BEIN SPORT HD4
-http://149.202.75.2:8000/live/Tech/Tech/366.ts
-#EXTINF:0,BEIN SPORT HD5
-http://149.202.75.2:8000/live/Tech/Tech/367.ts
-#EXTINF:0,BEIN SPORT HD6
-http://149.202.75.2:8000/live/Tech/Tech/368.ts
-#EXTINF:0,BEIN SPORT HD7
-http://149.202.75.2:8000/live/Tech/Tech/369.ts
-#EXTINF:0,BEIN SPORT HD8
-http://149.202.75.2:8000/live/Tech/Tech/370.ts
-#EXTINF:0,BEIN SPORT HD9
-http://149.202.75.2:8000/live/Tech/Tech/371.ts
-#EXTINF:0,BEIN SPORT HD10
-http://149.202.75.2:8000/live/Tech/Tech/372.ts
-#EXTINF:0,BEIN SPORT HD11
-http://149.202.75.2:8000/live/Tech/Tech/373.ts
-#EXTINF:0,BEIN SPORT HD12
-http://149.202.75.2:8000/live/Tech/Tech/374.ts
-#EXTINF:0,BEIN SPORT HD13
-http://149.202.75.2:8000/live/Tech/Tech/375.ts
-#EXTINF:0,BEIN SPORT HD14
-http://149.202.75.2:8000/live/Tech/Tech/376.ts
-#EXTINF:0,BEIN SPORT HD15
-http://149.202.75.2:8000/live/Tech/Tech/377.ts
+
 #EXTINF:-1,Top Movies
 http://38.99.146.36:7777/TopMovies_HD.m3u8
 #EXTINF:-1,MBC 1
@@ -443,396 +231,63 @@ rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1,Royatv
 http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 
-#EXTINF:-1,BEIN SPORT 
-#EXTINF:-1,BEIN SPORT HD 1
-http://178.33.88.129:888/udp/239.102.0.8:1234
-#EXTINF:-1,BEIN SPORT HD 2
-http://178.33.88.129:888/udp/239.102.0.4:1234
-#EXTINF:-1,BEIN SPORT HD 5 
-http://178.33.88.129:888/udp/239.102.0.6:1234
-#EXTINF:-1,BEIN SPORT HD 6
-http://178.33.88.129:888/udp/239.102.0.7:1234
-#EXTINF:-1,BEIN SPORT HD 9
-http://178.33.88.129:888/udp/239.102.0.10:1234
-#EXTINF:-1,BEIN SPORT HD 8
-http://178.33.88.129:888/udp/239.102.0.9:1234
-
-#EXTINF:-1,TESTING !!!!!
-
-#EXTINF:-1,ART AFLAM 1
-http://178.33.88.129:888/udp/239.102.0.47:1234
-#EXTINF:-1,ART AFLAM 2
-http://178.33.88.129:888/udp/239.102.0.48:1234
-#EXTINF:-1,ART CINEMA
-http://178.33.88.129:888/udp/239.102.0.49:1234
-#EXTINF:-1,ART HYKAYAT 1
-http://178.33.88.129:888/udp/239.102.0.51:1234
-#EXTINF:-1,ART HYKAYAT 2
-http://178.33.88.129:888/udp/239.102.0.52:1234
-
-#EXTINF:-1,EXTRA UNNAMED YET !!!!
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.0 1234
-http://178.33.88.129:888/udp/239.102.0.0:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.2 1234
-http://178.33.88.129:888/udp/239.102.0.2:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.4 1234
-http://178.33.88.129:888/udp/239.102.0.4:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.5 1234
-http://178.33.88.129:888/udp/239.102.0.5:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.7 1234
-http://178.33.88.129:888/udp/239.102.0.7:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.8 1234
-http://178.33.88.129:888/udp/239.102.0.8:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.6 1234
-http://178.33.88.129:888/udp/239.102.0.6:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.10 1234
-http://178.33.88.129:888/udp/239.102.0.10:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.9 1234
-http://178.33.88.129:888/udp/239.102.0.9:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.11 1234
-http://178.33.88.129:888/udp/239.102.0.11:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.12 1234
-http://178.33.88.129:888/udp/239.102.0.12:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.14 1234
-http://178.33.88.129:888/udp/239.102.0.14:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.15 1234
-http://178.33.88.129:888/udp/239.102.0.15:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.16 1234
-http://178.33.88.129:888/udp/239.102.0.16:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.17 1234
-http://178.33.88.129:888/udp/239.102.0.17:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.20 1234
-http://178.33.88.129:888/udp/239.102.0.20:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.21 1234
-http://178.33.88.129:888/udp/239.102.0.21:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.22 1234
-http://178.33.88.129:888/udp/239.102.0.22:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.26 1234
-http://178.33.88.129:888/udp/239.102.0.26:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.27 1234
-http://178.33.88.129:888/udp/239.102.0.27:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.28 1234
-http://178.33.88.129:888/udp/239.102.0.28:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.29 1234
-http://178.33.88.129:888/udp/239.102.0.29:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.36 1234
-http://178.33.88.129:888/udp/239.102.0.36:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.37 1234
-http://178.33.88.129:888/udp/239.102.0.37:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.45 1234
-http://178.33.88.129:888/udp/239.102.0.45:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.47 1234
-http://178.33.88.129:888/udp/239.102.0.47:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.48 1234
-http://178.33.88.129:888/udp/239.102.0.48:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.50 1234
-http://178.33.88.129:888/udp/239.102.0.50:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.49 1234
-http://178.33.88.129:888/udp/239.102.0.49:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.51 1234
-http://178.33.88.129:888/udp/239.102.0.51:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.52 1234
-http://178.33.88.129:888/udp/239.102.0.52:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.55 1234
-http://178.33.88.129:888/udp/239.102.0.55:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.56 1234
-http://178.33.88.129:888/udp/239.102.0.56:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.57 1234
-http://178.33.88.129:888/udp/239.102.0.57:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.74 1234
-http://178.33.88.129:888/udp/239.102.0.74:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.75 1234
-http://178.33.88.129:888/udp/239.102.0.75:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.78 1234
-http://178.33.88.129:888/udp/239.102.0.78:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.80 1234
-http://178.33.88.129:888/udp/239.102.0.80:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.79 1234
-http://178.33.88.129:888/udp/239.102.0.79:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.83 1234
-http://178.33.88.129:888/udp/239.102.0.83:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.84 1234
-http://178.33.88.129:888/udp/239.102.0.84:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.85 1234
-http://178.33.88.129:888/udp/239.102.0.85:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.86 1234
-http://178.33.88.129:888/udp/239.102.0.86:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.88 1234
-http://178.33.88.129:888/udp/239.102.0.88:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.89 1234
-http://178.33.88.129:888/udp/239.102.0.89:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.90 1234
-http://178.33.88.129:888/udp/239.102.0.90:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.91 1234
-http://178.33.88.129:888/udp/239.102.0.91:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.92 1234
-http://178.33.88.129:888/udp/239.102.0.92:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.94 1234
-http://178.33.88.129:888/udp/239.102.0.94:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.95 1234
-http://178.33.88.129:888/udp/239.102.0.95:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.96 1234
-http://178.33.88.129:888/udp/239.102.0.96:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.97 1234
-http://178.33.88.129:888/udp/239.102.0.97:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.98 1234
-http://178.33.88.129:888/udp/239.102.0.98:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.99 1234
-http://178.33.88.129:888/udp/239.102.0.99:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.100 1234
-http://178.33.88.129:888/udp/239.102.0.100:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.101 1234
-http://178.33.88.129:888/udp/239.102.0.101:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.102 1234
-http://178.33.88.129:888/udp/239.102.0.102:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.103 1234
-http://178.33.88.129:888/udp/239.102.0.103:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.105 1234
-http://178.33.88.129:888/udp/239.102.0.105:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.104 1234
-http://178.33.88.129:888/udp/239.102.0.104:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.108 1234
-http://178.33.88.129:888/udp/239.102.0.108:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.109 1234
-http://178.33.88.129:888/udp/239.102.0.109:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.110 1234
-http://178.33.88.129:888/udp/239.102.0.110:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.111 1234
-http://178.33.88.129:888/udp/239.102.0.111:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.113 1234
-http://178.33.88.129:888/udp/239.102.0.113:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.114 1234
-http://178.33.88.129:888/udp/239.102.0.114:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.116 1234
-http://178.33.88.129:888/udp/239.102.0.116:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.120 1234
-http://178.33.88.129:888/udp/239.102.0.120:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.121 1234
-http://178.33.88.129:888/udp/239.102.0.121:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.123 1234
-http://178.33.88.129:888/udp/239.102.0.123:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.122 1234
-http://178.33.88.129:888/udp/239.102.0.122:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.125 1234
-http://178.33.88.129:888/udp/239.102.0.125:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.124 1234
-http://178.33.88.129:888/udp/239.102.0.124:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.126 1234
-http://178.33.88.129:888/udp/239.102.0.126:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.127 1234
-http://178.33.88.129:888/udp/239.102.0.127:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.128 1234
-http://178.33.88.129:888/udp/239.102.0.128:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.129 1234
-http://178.33.88.129:888/udp/239.102.0.129:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.131 1234
-http://178.33.88.129:888/udp/239.102.0.131:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.130 1234
-http://178.33.88.129:888/udp/239.102.0.130:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.132 1234
-http://178.33.88.129:888/udp/239.102.0.132:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.133 1234
-http://178.33.88.129:888/udp/239.102.0.133:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.134 1234
-http://178.33.88.129:888/udp/239.102.0.134:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.135 1234
-http://178.33.88.129:888/udp/239.102.0.135:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.136 1234
-http://178.33.88.129:888/udp/239.102.0.136:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.137 1234
-http://178.33.88.129:888/udp/239.102.0.137:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.138 1234
-http://178.33.88.129:888/udp/239.102.0.138:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.141 1234
-http://178.33.88.129:888/udp/239.102.0.141:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.142 1234
-http://178.33.88.129:888/udp/239.102.0.142:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.143 1234
-http://178.33.88.129:888/udp/239.102.0.143:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.144 1234
-http://178.33.88.129:888/udp/239.102.0.144:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.145 1234
-http://178.33.88.129:888/udp/239.102.0.145:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.147 1234
-http://178.33.88.129:888/udp/239.102.0.147:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.149 1234
-http://178.33.88.129:888/udp/239.102.0.149:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.150 1234
-http://178.33.88.129:888/udp/239.102.0.150:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.151 1234
-http://178.33.88.129:888/udp/239.102.0.151:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.152 1234
-http://178.33.88.129:888/udp/239.102.0.152:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.153 1234
-http://178.33.88.129:888/udp/239.102.0.153:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.155 1234
-http://178.33.88.129:888/udp/239.102.0.155:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.156 1234
-http://178.33.88.129:888/udp/239.102.0.156:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.157 1234
-http://178.33.88.129:888/udp/239.102.0.157:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.158 1234
-http://178.33.88.129:888/udp/239.102.0.158:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.159 1234
-http://178.33.88.129:888/udp/239.102.0.159:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.160 1234
-http://178.33.88.129:888/udp/239.102.0.160:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.161 1234
-http://178.33.88.129:888/udp/239.102.0.161:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.162 1234
-http://178.33.88.129:888/udp/239.102.0.162:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.164 1234
-http://178.33.88.129:888/udp/239.102.0.164:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.165 1234
-http://178.33.88.129:888/udp/239.102.0.165:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.166 1234
-http://178.33.88.129:888/udp/239.102.0.166:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.167 1234
-http://178.33.88.129:888/udp/239.102.0.167:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.168 1234
-http://178.33.88.129:888/udp/239.102.0.168:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.169 1234
-http://178.33.88.129:888/udp/239.102.0.169:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.171 1234
-http://178.33.88.129:888/udp/239.102.0.171:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.170 1234
-http://178.33.88.129:888/udp/239.102.0.170:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.172 1234
-http://178.33.88.129:888/udp/239.102.0.172:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.174 1234
-http://178.33.88.129:888/udp/239.102.0.174:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.173 1234
-http://178.33.88.129:888/udp/239.102.0.173:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.176 1234
-http://178.33.88.129:888/udp/239.102.0.176:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.175 1234
-http://178.33.88.129:888/udp/239.102.0.175:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.177 1234
-http://178.33.88.129:888/udp/239.102.0.177:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.178 1234
-http://178.33.88.129:888/udp/239.102.0.178:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.179 1234
-http://178.33.88.129:888/udp/239.102.0.179:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.181 1234
-http://178.33.88.129:888/udp/239.102.0.181:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.180 1234
-http://178.33.88.129:888/udp/239.102.0.180:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.182 1234
-http://178.33.88.129:888/udp/239.102.0.182:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.183 1234
-http://178.33.88.129:888/udp/239.102.0.183:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.185 1234
-http://178.33.88.129:888/udp/239.102.0.185:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.184 1234
-http://178.33.88.129:888/udp/239.102.0.184:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.186 1234
-http://178.33.88.129:888/udp/239.102.0.186:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.188 1234
-http://178.33.88.129:888/udp/239.102.0.188:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.187 1234
-http://178.33.88.129:888/udp/239.102.0.187:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.189 1234
-http://178.33.88.129:888/udp/239.102.0.189:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.190 1234
-http://178.33.88.129:888/udp/239.102.0.190:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.191 1234
-http://178.33.88.129:888/udp/239.102.0.191:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.193 1234
-http://178.33.88.129:888/udp/239.102.0.193:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.192 1234
-http://178.33.88.129:888/udp/239.102.0.192:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.194 1234
-http://178.33.88.129:888/udp/239.102.0.194:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.195 1234
-http://178.33.88.129:888/udp/239.102.0.195:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.196 1234
-http://178.33.88.129:888/udp/239.102.0.196:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.197 1234
-http://178.33.88.129:888/udp/239.102.0.197:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.198 1234
-http://178.33.88.129:888/udp/239.102.0.198:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.200 1234
-http://178.33.88.129:888/udp/239.102.0.200:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.201 1234
-http://178.33.88.129:888/udp/239.102.0.201:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.202 1234
-http://178.33.88.129:888/udp/239.102.0.202:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.204 1234
-http://178.33.88.129:888/udp/239.102.0.204:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.205 1234
-http://178.33.88.129:888/udp/239.102.0.205:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.206 1234
-http://178.33.88.129:888/udp/239.102.0.206:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.207 1234
-http://178.33.88.129:888/udp/239.102.0.207:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.203 1234
-http://178.33.88.129:888/udp/239.102.0.203:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.208 1234
-http://178.33.88.129:888/udp/239.102.0.208:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.210 1234
-http://178.33.88.129:888/udp/239.102.0.210:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.209 1234
-http://178.33.88.129:888/udp/239.102.0.209:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.211 1234
-http://178.33.88.129:888/udp/239.102.0.211:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.212 1234
-http://178.33.88.129:888/udp/239.102.0.212:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.213 1234
-http://178.33.88.129:888/udp/239.102.0.213:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.215 1234
-http://178.33.88.129:888/udp/239.102.0.215:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.214 1234
-http://178.33.88.129:888/udp/239.102.0.214:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.217 1234
-http://178.33.88.129:888/udp/239.102.0.217:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.216 1234
-http://178.33.88.129:888/udp/239.102.0.216:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.218 1234
-http://178.33.88.129:888/udp/239.102.0.218:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.219 1234
-http://178.33.88.129:888/udp/239.102.0.219:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.220 1234
-http://178.33.88.129:888/udp/239.102.0.220:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.221 1234
-http://178.33.88.129:888/udp/239.102.0.221:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.223 1234
-http://178.33.88.129:888/udp/239.102.0.223:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.225 1234
-http://178.33.88.129:888/udp/239.102.0.225:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.226 1234
-http://178.33.88.129:888/udp/239.102.0.226:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.238 1234
-http://178.33.88.129:888/udp/239.102.0.238:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.239 1234
-http://178.33.88.129:888/udp/239.102.0.239:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.240 1234
-http://178.33.88.129:888/udp/239.102.0.240:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.242 1234
-http://178.33.88.129:888/udp/239.102.0.242:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.241 1234
-http://178.33.88.129:888/udp/239.102.0.241:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.243 1234
-http://178.33.88.129:888/udp/239.102.0.243:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.245 1234
-http://178.33.88.129:888/udp/239.102.0.245:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.246 1234
-http://178.33.88.129:888/udp/239.102.0.246:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.247 1234
-http://178.33.88.129:888/udp/239.102.0.247:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.248 1234
-http://178.33.88.129:888/udp/239.102.0.248:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.249 1234
-http://178.33.88.129:888/udp/239.102.0.249:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.244 1234
-http://178.33.88.129:888/udp/239.102.0.244:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.251 1234
-http://178.33.88.129:888/udp/239.102.0.251:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.252 1234
-http://178.33.88.129:888/udp/239.102.0.252:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.253 1234
-http://178.33.88.129:888/udp/239.102.0.253:1234
-#EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.254 1234
-http://178.33.88.129:888/udp/239.102.0.254:1234
-#EXTINF:-1,MBC TV
-rtmp://178.162.193.26/zenex playpath=mc0001?id=15923&pk=6c70a430c178860a65271fa2900dc04669fc1fc826ae6cfe73eb26be414c528b swfUrl=http://www.zenexplayer.com/data/scripts/fplayer.swf live=1 pageUrl=http://www.zenexplayer.com/embedplayer/mc0001/1/540/360
-
+#EXTINF:-1, beIN Sports 1HD
+http://50.7.69.138:9080/hls/bein1hd.m3u8
+#EXTINF:-1, beIN Sports 2HD
+http://50.7.69.138:9080/hls/bein2hd.m3u8
+#EXTINF:-1, beIN Sports 3HD
+http://50.7.69.138:9080/hls/bein3hd.m3u8
+#EXTINF:-1, beIN Sports 4HD
+http://50.7.69.138:9080/hls/bein4hd.m3u8
+#EXTINF:-1, beIN Sports 5HD
+http://50.7.69.138:9080/hls/bein5hd.m3u8
+#EXTINF:-1, beIN Sports 6HD
+http://50.7.69.138:9080/hls/bein6hd.m3u8
+#EXTINF:-1, beIN Sports 7HD
+http://50.7.69.138:9080/hls/bein7hd.m3u8
+#EXTINF:-1, beIN Sports 9HD
+http://50.7.69.138:9080/hls/bein8hd.m3u8
+#EXTINF:-1, beIN Sports 9HD
+http://50.7.69.138:9080/hls/bein9hd.m3u8
+#EXTINF:-1, beIN Sports 10HD
+http://50.7.69.138:9080/hls/bein10hd.m3u8
+#EXTINF:0,OSN Abu Dhabi Sports 1HD
+http://149.202.75.2:8000/live/Tech/Tech/1947.ts
+#EXTINF:0,BEIN SPORT AlKASS 1 HD
+http://149.202.75.2:8000/live/Tech/Tech/1945.ts
+#EXTINF:0,BEIN SPORT AlKASS 2 HD
+http://149.202.75.2:8000/live/Tech/Tech/1944.ts
+#EXTINF:0,BEIN SPORT AlKASS 3 HD
+http://149.202.75.2:8000/live/Tech/Tech/1943.ts
+#EXTINF:0,BEIN SPORT AlKASS 4 HD
+http://149.202.75.2:8000/live/Tech/Tech/1942.ts
+#EXTINF:0,BEIN SPORT HD1
+http://149.202.75.2:8000/live/Tech/Tech/363.ts
+#EXTINF:0,BEIN SPORT HD2
+http://149.202.75.2:8000/live/Tech/Tech/364.ts
+#EXTINF:0,BEIN SPORT HD3
+http://149.202.75.2:8000/live/Tech/Tech/365.ts
+#EXTINF:0,BEIN SPORT HD4
+http://149.202.75.2:8000/live/Tech/Tech/366.ts
+#EXTINF:0,BEIN SPORT HD5
+http://149.202.75.2:8000/live/Tech/Tech/367.ts
+#EXTINF:0,BEIN SPORT HD6
+http://149.202.75.2:8000/live/Tech/Tech/368.ts
+#EXTINF:0,BEIN SPORT HD7
+http://149.202.75.2:8000/live/Tech/Tech/369.ts
+#EXTINF:0,BEIN SPORT HD8
+http://149.202.75.2:8000/live/Tech/Tech/370.ts
+#EXTINF:0,BEIN SPORT HD9
+http://149.202.75.2:8000/live/Tech/Tech/371.ts
+#EXTINF:0,BEIN SPORT HD10
+http://149.202.75.2:8000/live/Tech/Tech/372.ts
+#EXTINF:0,BEIN SPORT HD11
+http://149.202.75.2:8000/live/Tech/Tech/373.ts
+#EXTINF:0,BEIN SPORT HD12
+http://149.202.75.2:8000/live/Tech/Tech/374.ts
+#EXTINF:0,BEIN SPORT HD13
+http://149.202.75.2:8000/live/Tech/Tech/375.ts
+#EXTINF:0,BEIN SPORT HD14
+http://149.202.75.2:8000/live/Tech/Tech/376.ts
+#EXTINF:0,BEIN SPORT HD15
+http://149.202.75.2:8000/live/Tech/Tech/377.ts
