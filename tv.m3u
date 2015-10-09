@@ -11,30 +11,6 @@ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 rtmp://63.237.48.23/live//MBC2
 #EXTINF:-1,Mbc4 - Link 1
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,Fox movies
-http://178.33.88.129:888/udp/239.102.0.181:1234
-#EXTINF:-1,Zee Aflam 
-http://178.33.88.129:888/udp/239.102.0.0:1234
-#EXTINF:-1,MELODY
-http://178.33.88.129:888/udp/239.102.0.110:1234
-#EXTINF:-1,ALMAJED QURAN
-http://178.33.88.129:888/udp/239.102.0.144:1234
-#EXTINF:-1,ROTANA MASR
-http://178.33.88.129:888/udp/239.102.0.185:1234
-#EXTINF:-1,ROTANA MUSIC
-http://178.33.88.129:888/udp/239.102.0.186:1234
-#EXTINF:-1,ROTANA CINEMA
-http://178.33.88.129:888/udp/239.102.0.188:1234
-#EXTINF:-1,ROTANA CLASSIC
-http://178.33.88.129:888/udp/239.102.0.187:1234
-#EXTINF:0,NAT GEO AD
-http://178.33.88.129:888/udp/239.102.0.216:1234
-#EXTINF:-1,SPACETOON
-http://178.33.88.129:888/udp/239.102.0.193:1234
-#EXTINF:-1,BARAEEM
-http://178.33.88.129:888/udp/239.102.0.194:1234
-#EXTINF:-1,TOYOR ALJANA
-http://178.33.88.129:888/udp/239.102.0.215:1234
 #EXTINF:-1,ALJAZEERA
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
 #EXTINF:-1, Dubai TV
@@ -209,16 +185,10 @@ http://broadcastquran.ism3na.com:8332/;stream.mp3
 http://www.elahmad.com/tv/m3u8/itworkscdn.m3u8?id=quran1
 #EXTINF:-1,Sky news arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:0,ALJAZEERA MUBASHER
-http://178.33.88.129:888/udp/239.102.0.158:1234
 #EXTINF:-1 ,TRT Arabic |
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:0,ALMUSTAKILA
-http://178.33.88.129:888/udp/239.102.0.169:1234
-#EXTINF:0,FATAFET 
-http://178.33.88.129:888/udp/239.102.0.180:1234
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 #EXTINF:-1,ANN News
