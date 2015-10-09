@@ -1,5 +1,217 @@
 #EXTM3U
-
+OSN And MBC Arabic IPTV
+#EXTINF:0,ARr:NileDrama
+http://149.202.75.2:8000/live/Tech/Tech/1920.ts
+#EXTINF:0,ARr:NileComedy
+http://149.202.75.2:8000/live/Tech/Tech/1921.ts
+#EXTINF:0,ARr:NileCinema
+http://149.202.75.2:8000/live/Tech/Tech/1922.ts
+#EXTINF:0,ARr:MBCPROSPORT3
+http://149.202.75.2:8000/live/Tech/Tech/1940.ts
+#EXTINF:0,ARr:MBCPROSPORT2
+http://149.202.75.2:8000/live/Tech/Tech/1941.ts
+#EXTINF:0,ARr:MBCPROSPORT1
+http://149.202.75.2:8000/live/Tech/Tech/1939.ts
+#EXTINF:0,ARr:MBCMax
+http://149.202.75.2:8000/live/Tech/Tech/1927.ts
+#EXTINF:0,ARr:MBCMasr
+http://149.202.75.2:8000/live/Tech/Tech/1930.ts
+#EXTINF:0,ARr:mbcmasar2
+http://149.202.75.2:8000/live/Tech/Tech/1931.ts
+#EXTINF:0,ARr:MBCDrama
+http://149.202.75.2:8000/live/Tech/Tech/1926.ts
+#EXTINF:0,ARr:MBCAction
+http://149.202.75.2:8000/live/Tech/Tech/1928.ts
+#EXTINF:0,ARr:MBC4
+http://149.202.75.2:8000/live/Tech/Tech/1925.ts
+#EXTINF:0,ARr:MBC3
+http://149.202.75.2:8000/live/Tech/Tech/1924.ts
+#EXTINF:0,ARr:MBC-Bollywood
+http://149.202.75.2:8000/live/Tech/Tech/1929.ts
+#EXTINF:0,ARr:MBC-2
+http://149.202.75.2:8000/live/Tech/Tech/1923.ts
+#EXTINF:0,ARr:CBCSofra
+http://149.202.75.2:8000/live/Tech/Tech/1933.ts
+#EXTINF:0,ARr:CBCDrama
+http://149.202.75.2:8000/live/Tech/Tech/1934.ts
+#EXTINF:0,ARr:CBC
+http://149.202.75.2:8000/live/Tech/Tech/1935.ts
+#EXTINF:0,ARr:BBCar
+http://149.202.75.2:8000/live/Tech/Tech/1889.ts
+#EXTINF:0,ARr:Baraeem
+http://149.202.75.2:8000/live/Tech/Tech/1890.ts
+#EXTINF:0,ARr:Assadissa
+http://149.202.75.2:8000/live/Tech/Tech/1891.ts
+#EXTINF:0,ARr:ArtAflam1
+http://149.202.75.2:8000/live/Tech/Tech/1938.ts
+#EXTINF:0,ARr:ArtAflam2
+http://149.202.75.2:8000/live/Tech/Tech/1937.ts
+#EXTINF:0,ARr:ArtHekayat
+http://149.202.75.2:8000/live/Tech/Tech/1936.ts
+#EXTINF:0,ARr:Arriadia
+http://149.202.75.2:8000/live/Tech/Tech/1894.ts
+#EXTINF:0,ARr:Arrabiaa
+http://149.202.75.2:8000/live/Tech/Tech/1895.ts
+#EXTINF:0,ARr:Aloulamaroc
+http://149.202.75.2:8000/live/Tech/Tech/1892.ts
+#EXTINF:0,ARr:aljazeera
+http://149.202.75.2:8000/live/Tech/Tech/1932.ts
+#EXTINF:0,ARr:AlInsen
+http://149.202.75.2:8000/live/Tech/Tech/1898.ts
+#EXTINF:0,ARr:AlarabiyaAhdas
+http://149.202.75.2:8000/live/Tech/Tech/1915.ts
+#EXTINF:0,ARr:alarabiya
+http://149.202.75.2:8000/live/Tech/Tech/1912.ts
+#EXTINF:0,ARr:2mMaroc
+http://149.202.75.2:8000/live/Tech/Tech/1893.ts
+#EXTINF:0,AR:Syria Drama
+http://149.202.75.2:8000/live/Tech/Tech/1642.ts
+#EXTINF:0,AR:Syria Aloula
+http://149.202.75.2:8000/live/Tech/Tech/1641.ts
+#EXTINF:0,AR:Syria
+http://149.202.75.2:8000/live/Tech/Tech/1643.ts
+#EXTINF:0,AR:Sama Syria
+http://149.202.75.2:8000/live/Tech/Tech/1644.ts
+#EXTINF:0,AR:SAMA DUBAI
+http://149.202.75.2:8000/live/Tech/Tech/1602.ts
+#EXTINF:0,AR:DUBAI TV
+http://149.202.75.2:8000/live/Tech/Tech/1601.ts
+#EXTINF:0,AR:DUBAI SPORTS
+http://149.202.75.2:8000/live/Tech/Tech/1605.ts
+#EXTINF:0,AR:DUBAI ONE
+http://149.202.75.2:8000/live/Tech/Tech/1603.ts
+#EXTINF:0,AR:DUBAI DRAMA
+http://149.202.75.2:8000/live/Tech/Tech/1604.ts
+#EXTINF:0,AR:ALJAZEERA DOC
+http://149.202.75.2:8000/live/Tech/Tech/1600.ts
+#EXTINF:0,ARr:NATIONAL1
+http://149.202.75.2:8000/live/Tech/Tech/1906.ts
+#EXTINF:0,ARr:NATIONAL2
+http://149.202.75.2:8000/live/Tech/Tech/1905.ts
+#EXTINF:0,ARr:hanibal
+http://149.202.75.2:8000/live/Tech/Tech/1900.ts
+#EXTINF:0,ARr:Tounesna
+http://149.202.75.2:8000/live/Tech/Tech/1901.ts
+#EXTINF:0,ARr:ETTOUNSIA
+http://149.202.75.2:8000/live/Tech/Tech/1911.ts
+#EXTINF:0,ARr:attassiatv
+http://149.202.75.2:8000/live/Tech/Tech/1908.ts
+#EXTINF:0,ARr:TNN
+http://149.202.75.2:8000/live/Tech/Tech/1902.ts
+#EXTINF:0,ARr:TELVZATV
+http://149.202.75.2:8000/live/Tech/Tech/1903.ts
+#EXTINF:0,ARr:FIRST.TV
+http://149.202.75.2:8000/live/Tech/Tech/1910.ts
+#EXTINF:0,ARr:NESSMA
+http://149.202.75.2:8000/live/Tech/Tech/1904.ts
+#EXTINF:0,ARr:MTunisia
+http://149.202.75.2:8000/live/Tech/Tech/1907.ts
+#EXTINF:0,AR_Rotana_Masriya
+http://149.202.75.2:8000/live/Tech/Tech/1916.ts
+#EXTINF:0,ARr:ZitounaHedaya
+http://149.202.75.2:8000/live/Tech/Tech/1909.ts
+#EXTINF:0,ARr:ZeeAlwan
+http://149.202.75.2:8000/live/Tech/Tech/1896.ts
+#EXTINF:0,ARr:ZeeAflam
+http://149.202.75.2:8000/live/Tech/Tech/1897.ts
+#EXTINF:0,ARr:zaitouna
+http://149.202.75.2:8000/live/Tech/Tech/1914.ts
+#EXTINF:0,ARr:Toyor-jannah
+http://149.202.75.2:8000/live/Tech/Tech/1888.ts
+#EXTINF:0,ARr:STARCINEMA2
+http://149.202.75.2:8000/live/Tech/Tech/1913.ts
+#EXTINF:0,ARr:samiratv
+http://149.202.75.2:8000/live/Tech/Tech/1899.ts
+#EXTINF:0,ARr:RotanaClassic
+http://149.202.75.2:8000/live/Tech/Tech/1918.ts
+#EXTINF:0,ARr:RotanaCinema
+http://149.202.75.2:8000/live/Tech/Tech/1919.ts
+#EXTINF:0,ETTOUNSIA
+http://149.202.75.2:8000/live/Tech/Tech/1323.ts
+#EXTINF:0,ALjanoubia
+http://149.202.75.2:8000/live/Tech/Tech/1848.ts
+#EXTINF:0,OSN-DISCOVERY-HD
+http://149.202.75.2:8000/live/Tech/Tech/252.ts
+#EXTINF:0,OSN-Discovery-Science-HD
+http://149.202.75.2:8000/live/Tech/Tech/1513.ts
+#EXTINF:0,OSN COMEDY
+http://149.202.75.2:8000/live/Tech/Tech/1504.ts
+#EXTINF:0,OSN_MOVIES_FESTIVAL
+http://149.202.75.2:8000/live/Tech/Tech/1501.ts
+#EXTINF:0,OSN Movies Premiere
+http://149.202.75.2:8000/live/Tech/Tech/1759.ts
+#EXTINF:0,OSN Movie kids-HD
+http://149.202.75.2:8000/live/Tech/Tech/236.ts
+#EXTINF:0,OSN-Animal-Planet-HD
+http://149.202.75.2:8000/live/Tech/Tech/1505.ts
+#EXTINF:0,OSN YAHALA
+http://149.202.75.2:8000/live/Tech/Tech/1511.ts
+#EXTINF:0,OSN_ACTION
+http://149.202.75.2:8000/live/Tech/Tech/1500.ts
+#EXTINF:0,OSN_MOVIES
+http://149.202.75.2:8000/live/Tech/Tech/1509.ts
+#EXTINF:0,OSN_MOVIES_DRAMA
+http://149.202.75.2:8000/live/Tech/Tech/1503.ts
+#EXTINF:-1, beIN Sports 1HD
+http://50.7.69.138:9080/hls/bein1hd.m3u8
+#EXTINF:-1, beIN Sports 2HD
+http://50.7.69.138:9080/hls/bein2hd.m3u8
+#EXTINF:-1, beIN Sports 3HD
+http://50.7.69.138:9080/hls/bein3hd.m3u8
+#EXTINF:-1, beIN Sports 4HD
+http://50.7.69.138:9080/hls/bein4hd.m3u8
+#EXTINF:-1, beIN Sports 5HD
+http://50.7.69.138:9080/hls/bein5hd.m3u8
+#EXTINF:-1, beIN Sports 6HD
+http://50.7.69.138:9080/hls/bein6hd.m3u8
+#EXTINF:-1, beIN Sports 7HD
+http://50.7.69.138:9080/hls/bein7hd.m3u8
+#EXTINF:-1, beIN Sports 9HD
+http://50.7.69.138:9080/hls/bein8hd.m3u8
+#EXTINF:-1, beIN Sports 9HD
+http://50.7.69.138:9080/hls/bein9hd.m3u8
+#EXTINF:-1, beIN Sports 10HD
+http://50.7.69.138:9080/hls/bein10hd.m3u8
+#EXTINF:0,OSN Abu Dhabi Sports 1HD
+http://149.202.75.2:8000/live/Tech/Tech/1947.ts
+#EXTINF:0,BEIN SPORT AlKASS 1 HD
+http://149.202.75.2:8000/live/Tech/Tech/1945.ts
+#EXTINF:0,BEIN SPORT AlKASS 2 HD
+http://149.202.75.2:8000/live/Tech/Tech/1944.ts
+#EXTINF:0,BEIN SPORT AlKASS 3 HD
+http://149.202.75.2:8000/live/Tech/Tech/1943.ts
+#EXTINF:0,BEIN SPORT AlKASS 4 HD
+http://149.202.75.2:8000/live/Tech/Tech/1942.ts
+#EXTINF:0,BEIN SPORT HD1
+http://149.202.75.2:8000/live/Tech/Tech/363.ts
+#EXTINF:0,BEIN SPORT HD2
+http://149.202.75.2:8000/live/Tech/Tech/364.ts
+#EXTINF:0,BEIN SPORT HD3
+http://149.202.75.2:8000/live/Tech/Tech/365.ts
+#EXTINF:0,BEIN SPORT HD4
+http://149.202.75.2:8000/live/Tech/Tech/366.ts
+#EXTINF:0,BEIN SPORT HD5
+http://149.202.75.2:8000/live/Tech/Tech/367.ts
+#EXTINF:0,BEIN SPORT HD6
+http://149.202.75.2:8000/live/Tech/Tech/368.ts
+#EXTINF:0,BEIN SPORT HD7
+http://149.202.75.2:8000/live/Tech/Tech/369.ts
+#EXTINF:0,BEIN SPORT HD8
+http://149.202.75.2:8000/live/Tech/Tech/370.ts
+#EXTINF:0,BEIN SPORT HD9
+http://149.202.75.2:8000/live/Tech/Tech/371.ts
+#EXTINF:0,BEIN SPORT HD10
+http://149.202.75.2:8000/live/Tech/Tech/372.ts
+#EXTINF:0,BEIN SPORT HD11
+http://149.202.75.2:8000/live/Tech/Tech/373.ts
+#EXTINF:0,BEIN SPORT HD12
+http://149.202.75.2:8000/live/Tech/Tech/374.ts
+#EXTINF:0,BEIN SPORT HD13
+http://149.202.75.2:8000/live/Tech/Tech/375.ts
+#EXTINF:0,BEIN SPORT HD14
+http://149.202.75.2:8000/live/Tech/Tech/376.ts
+#EXTINF:0,BEIN SPORT HD15
+http://149.202.75.2:8000/live/Tech/Tech/377.ts
 #EXTINF:-1,Top Movies
 http://38.99.146.36:7777/TopMovies_HD.m3u8
 #EXTINF:-1,MBC 1
