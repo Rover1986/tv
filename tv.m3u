@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,alarabiya 
+http://2.109.65.142/masa/14220.m3u8 
 #EXTINF:-1,Al Risala
 http://2.109.65.143/masa/14324.m3u8
 #EXTINF:-1,Mbc 1
