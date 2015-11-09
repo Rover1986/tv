@@ -210,7 +210,7 @@ rtmp://ns8.indexforce.com/ann/ann
 http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 
 
-#EXTINF:-1,BEIN_SPORT HD1
+#EXTINF:-1,BEIN_SPORT HD1 new
 http://edge.ultracast.me:1935/live/1beinjkJND/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
 #EXTINF:-1,BEIN_SPORT HD2
 http://edge.ultracast.me:1935/live/2BI9n0K/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
