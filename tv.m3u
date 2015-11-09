@@ -18,6 +18,8 @@ rtmp://63.237.48.23/live//MBC2
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,Mbc Masr 2
 http://2.109.65.138/masa/tun3729.m3u8
+#EXTINF:-1,Mbc Variety
+http://2.109.65.138/masa/13767.m3u8
 #EXTINF:-1,alarabiya 
 http://2.109.65.142/masa/14220.m3u8 
 #EXTINF:-1,Al Risala
@@ -206,69 +208,6 @@ http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1,Royatv
 http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
-
-#EXTINF:-1, beIN Sports 1HD
-http://50.7.69.138:9080/hls/bein1hd.m3u8
-#EXTINF:-1, beIN Sports 2HD
-http://50.7.69.138:9080/hls/bein2hd.m3u8
-#EXTINF:-1, beIN Sports 3HD
-http://50.7.69.138:9080/hls/bein3hd.m3u8
-#EXTINF:-1, beIN Sports 4HD
-http://50.7.69.138:9080/hls/bein4hd.m3u8
-#EXTINF:-1, beIN Sports 5HD
-http://50.7.69.138:9080/hls/bein5hd.m3u8
-#EXTINF:-1, beIN Sports 6HD
-http://50.7.69.138:9080/hls/bein6hd.m3u8
-#EXTINF:-1, beIN Sports 7HD
-http://50.7.69.138:9080/hls/bein7hd.m3u8
-#EXTINF:-1, beIN Sports 9HD
-http://50.7.69.138:9080/hls/bein8hd.m3u8
-#EXTINF:-1, beIN Sports 9HD
-http://50.7.69.138:9080/hls/bein9hd.m3u8
-#EXTINF:-1, beIN Sports 10HD
-http://50.7.69.138:9080/hls/bein10hd.m3u8
-#EXTINF:0,OSN Abu Dhabi Sports 1HD
-http://149.202.75.2:8000/live/Tech/Tech/1947.ts
-#EXTINF:0,BEIN SPORT AlKASS 1 HD
-http://149.202.75.2:8000/live/Tech/Tech/1945.ts
-#EXTINF:0,BEIN SPORT AlKASS 2 HD
-http://149.202.75.2:8000/live/Tech/Tech/1944.ts
-#EXTINF:0,BEIN SPORT AlKASS 3 HD
-http://149.202.75.2:8000/live/Tech/Tech/1943.ts
-#EXTINF:0,BEIN SPORT AlKASS 4 HD
-http://149.202.75.2:8000/live/Tech/Tech/1942.ts
-#EXTINF:0,BEIN SPORT HD1
-http://149.202.75.2:8000/live/Tech/Tech/363.ts
-#EXTINF:0,BEIN SPORT HD2
-http://149.202.75.2:8000/live/Tech/Tech/364.ts
-#EXTINF:0,BEIN SPORT HD3
-http://149.202.75.2:8000/live/Tech/Tech/365.ts
-#EXTINF:0,BEIN SPORT HD4
-http://149.202.75.2:8000/live/Tech/Tech/366.ts
-#EXTINF:0,BEIN SPORT HD5
-http://149.202.75.2:8000/live/Tech/Tech/367.ts
-#EXTINF:0,BEIN SPORT HD6
-http://149.202.75.2:8000/live/Tech/Tech/368.ts
-#EXTINF:0,BEIN SPORT HD7
-http://149.202.75.2:8000/live/Tech/Tech/369.ts
-#EXTINF:0,BEIN SPORT HD8
-http://149.202.75.2:8000/live/Tech/Tech/370.ts
-#EXTINF:0,BEIN SPORT HD9
-http://149.202.75.2:8000/live/Tech/Tech/371.ts
-#EXTINF:0,BEIN SPORT HD10
-http://149.202.75.2:8000/live/Tech/Tech/372.ts
-#EXTINF:0,BEIN SPORT HD11
-http://149.202.75.2:8000/live/Tech/Tech/373.ts
-#EXTINF:0,BEIN SPORT HD12
-http://149.202.75.2:8000/live/Tech/Tech/374.ts
-#EXTINF:0,BEIN SPORT HD13
-http://149.202.75.2:8000/live/Tech/Tech/375.ts
-#EXTINF:0,BEIN SPORT HD14
-http://149.202.75.2:8000/live/Tech/Tech/376.ts
-#EXTINF:0,BEIN SPORT HD15
-http://149.202.75.2:8000/live/Tech/Tech/377.ts
-#EXTINF:0,ART HIKAYAT 1
-
 
 #EXTINF:-1,from A to B 2015
 http://flv.alarab.net:8080//flv/83809.flv?start=0
