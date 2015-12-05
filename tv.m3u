@@ -44,6 +44,19 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,AD National Geography
 http://216.66.42.85:7777/ADNatGeo_HD.m3u8?user=1445027433&session=11696b02d39ad1e334dbc2577660b2adf23f28b3b22325cbe765943c2c37106aa299017ce29bf1aa&v=1599781020
 
+
+#EXTINF:-1,ART AFLAM 1
+http://bit.ly/1MDTG62
+
+#EXTINF:-1,ART AFLAM 2
+http://bit.ly/1MDTJ1J
+
+#EXTINF:-1,ART CINEMA
+http://bit.ly/1LZcwaw
+
+#EXTINF:-1,MBC 1
+http://bit.ly/1WA1dsa
+
 #EXTINF:0,MBC MAX 
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
