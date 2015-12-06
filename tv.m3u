@@ -11,14 +11,10 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 #EXTINF:-1,ALJAZEERA
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
 
-#EXTINF:-1,aljazeera_mubasher
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
 
 #EXTINF:-1,Russia Today
 http://rt-a.akamaihd.net/ch_03@325607/320p.m3u8
 
-#EXTINF:-1,i24 News Arabia
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 
 #EXTINF:-1,Sky news arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
@@ -26,8 +22,6 @@ http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m
 #EXTINF:-1 ,TRT Arabic |
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
-#EXTINF:-1,Future Tv
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w1684786010_b1000000.m3u8
 
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
@@ -44,14 +38,30 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,AD National Geography
 http://216.66.42.85:7777/ADNatGeo_HD.m3u8?user=1445027433&session=11696b02d39ad1e334dbc2577660b2adf23f28b3b22325cbe765943c2c37106aa299017ce29bf1aa&v=1599781020
 
-#EXTINF:-1,ART AFLAM 1
-http://bit.ly/1MDTG62
 
-#EXTINF:-1,ART AFLAM 2
-http://bit.ly/1MDTJ1J
+#EXTINF:-1,Mbc 1
+http://2.109.65.141/masan/14112.m3u8
 
-#EXTINF:-1,ART CINEMA
-http://bit.ly/1LZcwaw
+#EXTINF:-1,Mbc Drama
+http://2.109.65.141/masan/14113.m3u8
+ 
+#EXTINF:-1,Mbc 2
+http://2.109.65.146/masa/14616.m3u8
+ 
+#EXTINF:-1,Mbc 3
+http://2.109.65.146/masa/14617.m3u8
+
+#EXTINF:-1,Mbc 4
+http://2.109.65.146/masa/14618.m3u8
+
+#EXTINF:-1,Mbc Action
+http://2.109.65.146/masa/14619.m3u8
+
+#EXTINF:-1,Mbc Max
+http://2.109.65.141/masan/14111.m3u8
+
+#EXTINF:-1,Mbc Bollywood
+http://2.109.65.141/masan/14114.m3u8
 
 #EXTINF:-1,MBC 1
 http://bit.ly/1WA1dsa
@@ -355,29 +365,6 @@ http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 #EXTINF:-1,Dubai Drama
 http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1645216972_b1200000.m3u8
 
-#EXTINF:-1,Mbc 1
-http://2.109.65.141/masan/14112.m3u8
-
-#EXTINF:-1,Mbc Drama
-http://2.109.65.141/masan/14113.m3u8
- 
-#EXTINF:-1,Mbc 2
-http://2.109.65.146/masa/14616.m3u8
- 
-#EXTINF:-1,Mbc 3
-http://2.109.65.146/masa/14617.m3u8
-
-#EXTINF:-1,Mbc 4
-http://2.109.65.146/masa/14618.m3u8
-
-#EXTINF:-1,Mbc Action
-http://2.109.65.146/masa/14619.m3u8
-
-#EXTINF:-1,Mbc Max
-http://2.109.65.141/masan/14111.m3u8
-
-#EXTINF:-1,Mbc Bollywood
-http://2.109.65.141/masan/14114.m3u8
  
 #EXTINF:-1,Hawakom TV
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
@@ -487,9 +474,6 @@ http://2.109.65.138/masan/13776.m3u8
 #EXTINF:-1,Mazzika
 http://2.109.65.138/masa/13772.m3u8
 
-#EXTINF:-1,SpaceToon
-http://2.109.65.138/masa/13768.m3u8
-
 #EXTINF:-1,Moga comedy
 http://2.109.65.141/masa/14119.m3u8
 
@@ -559,61 +543,52 @@ http://agendastreamerx1.qna.org.qa:1935/qtv/qtv/chunklist.m3u8?wowzasessionid=14
 http://agendastreamerx1.qna.org.qa:1935/ryn/ryn/chunklist.m3u8?wowzasessionid=752465222
  #EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
- 
-#EXTINF‬:0,SVT1 HD
+
+#EXTINF:-1,svt1
 http://188.138.9.228:8001
- 
-#EXTINF:0,SVT2 HD 
+
+#EXTINF:-1,svt2
 http://188.138.9.228:8002
- 
-#EXTINF:0,TV3 HD 
+
+#EXTINF:-1,TV3
 http://188.138.9.228:8003
- 
-#EXTINF:0,TV4 HD 
+
+#EXTINF:-1,TV4
 http://188.138.9.228:8004
 
-#EXTINF:0,Kanal 5 HD 
+#EXTINF:-1,Kanal5
 http://188.138.9.228:8005
 
-#EXTINF:0,TV6 HD 
-http://188.138.9.228:8006
-
-#EXTINF:0,SJUAN HD 
+#EXTINF:-1,Sjuan
 http://188.138.9.228:8007
 
-#EXTINF:0,TV8 HD 
-http://188.138.9.228:8008
-
-#EXTINF:0,Kanal 9 HD 
-http://188.138.9.228:8009
-
-#EXTINF:0,Kanal 11 HD 
+#EXTINF:-1,Kanal11
 http://188.138.9.228:8011
 
-#EXTINF:0,Kanal 12 HD 
-http://188.138.9.228:8012
+#EXTINF:-1,C More Hits
+http://188.138.9.228:8020
 
-#EXTINF:0,SVT Barnkanalen HD 
-http://188.138.9.228:8013
+#EXTINF:-1,C More Series
+http://188.138.9.228:8021
 
-#EXTINF:0,svt24 HD 
-http://188.138.9.228:8013
+#EXTINF:-1,Comedy Central
+http://188.138.9.228:8022
 
-#EXTINF:0,EUROSPORT 
-http://188.138.9.228:8040
-
-#EXTINF:0,C MORE- Sport 
+#EXTINF:-1,C More Sport -
 http://188.138.9.228:8023
 
-#EXTINF:0,C MORE- Fotboll 
+#EXTINF:-1,C More First
+http://188.138.9.228:8024
+
+#EXTINF:-1,C More Emotion
+http://188.138.9.228:8025
+
+#EXTINF:-1,C More Fotboll
 http://188.138.9.228:8034
 
-#EXTINF:0,Disney Junior 
-http://188.138.9.228:8036
-
-#EXTINF:0,NickJr. 
-http://188.138.9.228:80
-
+#EXTINF:-1,C More Action
+http://188.138.9.228:8035
+ 
 
 #EXTINF:-1,Bein_Sports_1HD
 http://globe.midomed.com:8883/live/marz197ms/fz6230nqj/61.ts
