@@ -60,33 +60,6 @@ http://iptv777.dyndns.tv:8000/live/gravity/gravity/1386.ts
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1395.ts
 
 
-#EXTINF:-1,Mbc 1
-http://2.109.65.141/masan/14112.m3u8
-
-#EXTINF:-1,Mbc Drama
-http://2.109.65.141/masan/14113.m3u8
- 
-#EXTINF:-1,Mbc 2
-http://2.109.65.146/masa/14616.m3u8
- 
-#EXTINF:-1,Mbc 3
-http://2.109.65.146/masa/14617.m3u8
-
-#EXTINF:-1,Mbc 4
-http://2.109.65.146/masa/14618.m3u8
-
-#EXTINF:-1,Mbc Action
-http://2.109.65.146/masa/14619.m3u8
-
-#EXTINF:-1,Mbc Max
-http://2.109.65.141/masan/14111.m3u8
-
-#EXTINF:-1,Mbc Bollywood
-http://2.109.65.141/masan/14114.m3u8
-
-#EXTINF:-1,MBC 1
-http://bit.ly/1WA1dsa
-
 #EXTINF:0,MBC MAX 
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
