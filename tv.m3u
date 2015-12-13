@@ -38,6 +38,27 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,AD National Geography
 http://216.66.42.85:7777/ADNatGeo_HD.m3u8?user=1445027433&session=11696b02d39ad1e334dbc2577660b2adf23f28b3b22325cbe765943c2c37106aa299017ce29bf1aa&v=1599781020
 
+#EXTINF:-1,AR:MBC1
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1379.ts
+#EXTINF:-1,AR-MBC-2
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1380.ts
+#EXTINF:-1,AR-MBC3
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1381.ts
+#EXTINF:-1,AR-MBC4
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1382.ts
+#EXTINF:-1,AR-MBCDrama
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1385.ts
+#EXTINF:-1,AR-MBCMax
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1387.ts
+#EXTINF:-1,AR-MBCAction
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1383.ts
+#EXTINF:-1,AR-MBC-Bollywood
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1384.ts
+#EXTINF:-1,AR-MBCMasr
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1386.ts
+#EXTINF:-1,AR-mbcmasar2
+http://iptv777.dyndns.tv:8000/live/gravity/gravity/1395.ts
+
 
 #EXTINF:-1,Mbc 1
 http://2.109.65.141/masan/14112.m3u8
