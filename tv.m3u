@@ -129,8 +129,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dd
 #EXTINF:-1,NBN
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 
-#EXTINF:-1,Lbc-Europe
-2484	 http://8.21.48.20:7777/LBC_HD.m3u8
+#EXTINF:0,lbc-europe
+http://globe.midomed.com:8883/live/midomed/dreambox125/203.ts
 
 #EXTINF:-1,OTV
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
