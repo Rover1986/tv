@@ -38,50 +38,50 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,AD National Geography
 http://216.66.42.85:7777/ADNatGeo_HD.m3u8?user=1445027433&session=11696b02d39ad1e334dbc2577660b2adf23f28b3b22325cbe765943c2c37106aa299017ce29bf1aa&v=1599781020
 
-#EXTINF:-1,AR:MBC1
+#EXTINF:-1,MBC1
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1379.ts
-#EXTINF:-1,AR-MBC-2
+#EXTINF:-1,MBC-2
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1380.ts
-#EXTINF:-1,AR-MBC3
+#EXTINF:-1,MBC3
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1381.ts
-#EXTINF:-1,AR-MBC4
+#EXTINF:-1,MBC4
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1382.ts
-#EXTINF:-1,AR-MBCDrama
+#EXTINF:-1,MBC Drama
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1385.ts
-#EXTINF:-1,AR-MBCMax
+#EXTINF:-1,MBC Max
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1387.ts
-#EXTINF:-1,AR-MBCAction
+#EXTINF:-1,MBC Action
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1383.ts
-#EXTINF:-1,AR-MBC-Bollywood
+#EXTINF:-1,MBC-Bollywood
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1384.ts
-#EXTINF:-1,AR-MBCMasr
+#EXTINF:-1,MBC Masr
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1386.ts
-#EXTINF:-1,AR-mbcmasar2
+#EXTINF:-1,mbc masar2
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1395.ts
 
 
-#EXTINF:0,MBC MAX 
+#EXTINF:0,MBC MAX OLD 
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
-#EXTINF:0,MBC ACTION 
+#EXTINF:0,MBC ACTION OLD
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1,MBC BOLLYWOOD
+#EXTINF:-1,MBC BOLLYWOOD OLD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
-#EXTINF:-1,mbc2
+#EXTINF:-1,mbc2 OLD
 rtmp://63.237.48.23/live//MBC2
 
-#EXTINF:-1,Mbc4 - Link 1
+#EXTINF:-1,Mbc4 OLD
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 
-#EXTINF:-1,Mbc Masr 2
+#EXTINF:-1,Mbc Masr 2 OLD
 http://2.109.65.138/masa/tun3729.m3u8
 
-#EXTINF:-1,Mbc Variety
+#EXTINF:-1,Mbc Variety OLD
 http://2.109.65.138/masa/13767.m3u8
 
-#EXTINF:-1,FOX
+#EXTINF:-1,FOX 
 http://178.33.88.129:888/udp/239.102.0.249:1234
 
 #EXTINF:-1,Rotana Masria 
