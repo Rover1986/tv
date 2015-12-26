@@ -40,18 +40,18 @@ http://216.66.42.85:7777/ADNatGeo_HD.m3u8?user=1445027433&session=11696b02d39ad1
 
 #EXTINF:-1,MBC1
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1379.ts
-#EXTINF:-1,MBC-2
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1380.ts
+#EXTINF:-1,MBC_2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC3
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1381.ts
-#EXTINF:-1,MBC4
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1382.ts
+#EXTINF:-1,MBC_4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,MBC Drama
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1385.ts
-#EXTINF:-1,MBC Max
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1387.ts
-#EXTINF:-1,MBC Action
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1383.ts
+#EXTINF:-1,MBC_Max
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1,MBC_Action
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,MBC-Bollywood
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1384.ts
 #EXTINF:-1,MBC Masr
