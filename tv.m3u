@@ -621,6 +621,27 @@ http://188.138.9.228:8034
 #EXTINF:-1,C More Action
 http://188.138.9.228:8035
  
+EXTINF:-1,beIN SPORTS 1HD
+rtmp://$OPT:rtmp-raw=rtmp://185.120.145.102:443/liveedge/ playpath=mybein1Cr1 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein1Cr1&width=700&height=450
+#EXTINF:-1,beIN SPORTS 2HD
+rtmp://$OPT:rtmp-raw=rtmp://185.120.145.102:443/liveedge/ playpath=mybein2TMe swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein2TMe&width=700&height=450
+#EXTINF:-1,beIN SPORTS 3HD
+rtmp://$OPT:rtmp-raw=rtmp://94.176.148.210:443/liveedge/ playpath=mybein3FQ3 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein3FQ3&width=700&height=450
+#EXTINF:-1,beIN SPORTS 4HD
+rtmp://$OPT:rtmp-raw=rtmp://94.176.148.212:443/liveedge/ playpath=mybein44gS swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein44gS&width=700&height=450
+#EXTINF:-1,beIN SPORTS 5HD
+rtmp://$OPT:rtmp-raw=rtmp://185.120.145.102:443/liveedge/ playpath=mybein52EP swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein52EP&width=700&height=450
+#EXTINF:-1,beIN SPORTS 6HD
+rtmp://$OPT:rtmp-raw=rtmp://94.176.148.211:443/liveedge/ playpath=mybein6iIP swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein6iIP&width=700&height=450
+#EXTINF:-1,beIN SPORTS 7HD
+rtmp://$OPT:rtmp-raw=rtmp://94.176.148.213:443/liveedge/ playpath=mybein7umf swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein7umf&width=700&height=450
+#EXTINF:-1,beIN SPORTS 8HD
+rtmp://$OPT:rtmp-raw=rtmp://94.176.148.211:443/liveedge/ playpath=mybein8IBz swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein8IBz&width=700&height=450
+#EXTINF:-1,beIN SPORTS 9HD
+rtmp://$OPT:rtmp-raw=rtmp://94.176.148.213:443/liveedge/ playpath=mybein96MI swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein96MI&width=700&height=450
+#EXTINF:-1,beIN SPORTS 10HD
+rtmp://$OPT:rtmp-raw=rtmp://94.176.148.211:443/liveedge/ playpath=mybein10pW9 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/iframe.php?ch=mybein10pW9&width=700&height=450
+
 
 #EXTINF:-1,Bein_Sports_1HD
 http://globe.midomed.com:8883/live/marz197ms/fz6230nqj/61.ts
