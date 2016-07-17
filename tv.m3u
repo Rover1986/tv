@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,max1
-http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11895.ts?v=1503660475
+http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11895.m3u8?v=1503660475
 #EXTINF:-1,max2
 http://clientportal.link:8080/live/PAdmTz2A3M/84d22BPlxx/11896.ts?v=1503660475
 #EXTINF:-1,ALJAZEERA
